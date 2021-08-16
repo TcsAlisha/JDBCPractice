@@ -58,7 +58,7 @@ public class JDBCDemo {
 		ResultSet resultSet = statement.executeQuery("SELECT * from regions");
 		List<String> regions = new ArrayList<String>();
 		while (resultSet.next()) {
-			logger.debug(resultSet.getInt(1)+"");
+			logger.debug("id={}",resultSet.getInt(1));//Parameterized Logging
 			logger.debug(resultSet.getString("REGION_NAME"));
 			regions.add(resultSet.getNString("REGION_NAME"));
 			
@@ -66,6 +66,6 @@ public class JDBCDemo {
 	}
 
 	private static void create(Statement statement) throws SQLException {
-		statement.execute("INSERT INTO REGIONS VALUES(2, 'North America')");
+		statement.execute("INSERT INTO REGIONS VALUES(2, 'South America')");
 	}
 }
