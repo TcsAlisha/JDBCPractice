@@ -1,0 +1,30 @@
+2021-08-12 10:27:35,859 FATAL a.LoggingDemo [main] Fatal message
+2021-08-12 10:27:35,861 WARN a.LoggingDemo [main] This is warning
+2021-08-12 10:27:35,862 INFO a.LoggingDemo [main] This is Info
+2021-08-12 10:27:35,862 TRACE a.LoggingDemo [main] Trace message
+2021-08-12 10:27:35,862 DEBUG a.LoggingDemo [main] This is a debug message
+2021-08-12 10:27:35,863 ERROR a.LoggingDemo [main] Error
+2021-08-12 10:28:02,370 FATAL a.LoggingDemo [main] Fatal message
+2021-08-12 10:28:02,374 WARN a.LoggingDemo [main] This is warning
+2021-08-12 10:28:02,374 ERROR a.LoggingDemo [main] Error
+2021-08-12 10:28:13,226 FATAL a.LoggingDemo [main] Fatal message
+2021-08-12 10:28:13,229 WARN a.LoggingDemo [main] This is warning
+2021-08-12 10:28:13,229 INFO a.LoggingDemo [main] This is Info
+2021-08-12 10:28:13,230 TRACE a.LoggingDemo [main] Trace message
+2021-08-12 10:28:13,230 DEBUG a.LoggingDemo [main] This is a debug message
+2021-08-12 10:28:13,230 ERROR a.LoggingDemo [main] Error
+2021-08-12 10:30:37,070 FATAL a.LoggingDemo [main] Fatal message
+2021-08-12 10:30:37,073 WARN a.LoggingDemo [main] This is warning
+2021-08-12 10:30:37,073 INFO a.LoggingDemo [main] This is Info
+2021-08-12 10:30:37,074 TRACE a.LoggingDemo [main] Trace message
+2021-08-12 10:30:37,074 DEBUG a.LoggingDemo [main] This is a debug message
+2021-08-12 10:30:37,074 ERROR a.LoggingDemo [main] Error
+2021-08-12 11:14:13,859 FATAL a.LoggingDemo [main] Fatal message
+2021-08-12 11:14:13,863 WARN a.LoggingDemo [main] This is warning
+2021-08-12 11:14:13,863 ERROR a.LoggingDemo [main] Error
+2021-08-12 11:17:54,424 FATAL a.LoggingDemo [main] Fatal message
+2021-08-12 11:17:54,428 WARN a.LoggingDemo [main] This is warning
+2021-08-12 11:17:54,428 ERROR a.LoggingDemo [main] Error
+2021-08-16 06:09:30,412 FATAL a.LoggingDemo [main] Fatal message
+2021-08-16 06:09:30,415 WARN a.LoggingDemo [main] This is warning
+2021-08-16 06:09:30,415 ERROR a.LoggingDemo [main] Error
